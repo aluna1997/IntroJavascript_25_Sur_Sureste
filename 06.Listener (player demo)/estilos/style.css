@@ -1,0 +1,28 @@
+.player {
+    width: 400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.cover {
+    padding-top: 30px;
+    padding: auto;
+}
+
+.image {
+    width: 100%;
+    border-radius: 13%;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.btn-lg {
+    height: 100px;
+    width: 100px;
+}
+  
+.btn-sm {
+    height: 50px;
+    width: 50px;
+}
